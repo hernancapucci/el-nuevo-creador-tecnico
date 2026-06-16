@@ -1,5 +1,7 @@
 # El nuevo creador técnico — The New Technical Creator
 
+![The New Technical Creator — a digital book by Hernán Capucci](assets/cover-en.png)
+
 > **The New Technical Creator, a digital reference book by Hernán Capucci for non-technical professionals who want to understand digital systems and artificial intelligence without becoming programmers.**
 
 **Official site:** https://elnuevocreadortecnico.com
