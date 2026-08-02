@@ -6,7 +6,7 @@
 
 **Official site:** https://elnuevocreadortecnico.com
 
-A reference work for creators, entrepreneurs, and non-technical professionals who need to understand digital systems, artificial intelligence, and technology products — without becoming programmers. Published in five editions: Spanish (original), Brazilian Portuguese, English, Italian and French.
+A reference work for creators, entrepreneurs, and non-technical professionals who need to understand digital systems, artificial intelligence, and technology products — without becoming programmers. Published in ten editions: Spanish (original), Brazilian Portuguese, English, Italian, French, German, Indonesian, Turkish, Russian and Korean.
 
 > This repository is the public, machine-readable home of the project's metadata and description. The book itself is sold as a digital product on the official site.
 
@@ -29,6 +29,11 @@ Each edition is a separate product. A purchase corresponds to one specific editi
 | English | The New Technical Creator | https://elnuevocreadortecnico.com/en/ | [sample](https://elnuevocreadortecnico.com/free-sample-the-new-technical-creator-en.pdf) |
 | Italian | Il nuovo creatore tecnico | https://elnuevocreadortecnico.com/it/ | [estratto](https://elnuevocreadortecnico.com/estratto-gratuito-il-nuovo-creatore-tecnico-it.pdf) |
 | French | Le nouveau créateur technique | https://elnuevocreadortecnico.com/fr/ | [extrait](https://elnuevocreadortecnico.com/extrait-gratuit-le-nouveau-createur-technique-fr.pdf) |
+| German | Der neue technische Creator | https://elnuevocreadortecnico.com/de/ | [Leseprobe](https://elnuevocreadortecnico.com/leseprobe-der-neue-technische-creator-de.pdf) |
+| Indonesian | Kreator Teknis Baru | https://elnuevocreadortecnico.com/id/ | [cuplikan](https://elnuevocreadortecnico.com/cuplikan-kreator-teknis-baru-id.pdf) |
+| Turkish | Yeni teknik kreatör | https://elnuevocreadortecnico.com/tr/ | [örnek](https://elnuevocreadortecnico.com/ucretsiz-ornek-yeni-teknik-kreator-tr.pdf) |
+| Russian | Новый технический креатор | https://elnuevocreadortecnico.com/ru/ | [фрагмент](https://elnuevocreadortecnico.com/besplatnyy-fragment-novyy-tehnicheskiy-kreator-ru.pdf) |
+| Korean | 새로운 기술 크리에이터 | https://elnuevocreadortecnico.com/ko/ | [미리보기](https://elnuevocreadortecnico.com/muryo-miribogi-saeroun-gisul-keurieiteo-ko.pdf) |
 
 ## Each edition includes
 
@@ -55,15 +60,28 @@ Creators, entrepreneurs, founders, non-technical professionals, consultants, and
 
 ## Sales status
 
-Sales are **not active yet**. Checkout is not enabled in any language. A notification waitlist and a free sample (per language) are available on each landing page.
+Sales are active **per edition**. The Spanish, Brazilian Portuguese, English, Italian, French, German, Indonesian and Turkish editions are on sale now. The Russian and Korean editions are not active yet and offer a notification waitlist on their landing pages. A free sample (PDF, no sign-up) is available for every edition.
+
+This README is not the source of truth for commercial state. The canonical, machine-readable status — including price and checkout per edition — is published at https://elnuevocreadortecnico.com/.well-known/del.json
+
+## Bibliographic records
+
+The book is catalogued as a single conceptual work with one edition per language:
+
+- Open Library — work: https://openlibrary.org/works/OL45838913W
+- Open Library — Spanish edition: https://openlibrary.org/books/OL62381254M
+- Open Library — author record: https://openlibrary.org/authors/OL16541369A
 
 ## Author
 
 **Hernán Capucci**
 
+- Official links hub: https://elnuevocreadortecnico.com/links
 - GitHub: https://github.com/hernancapucci
+- ORCID: https://orcid.org/0009-0008-7216-3032
 - LinkedIn: https://www.linkedin.com/in/hern%C3%A1n-capucci/
 - X: https://x.com/HernanCapucci
+- Instagram: https://www.instagram.com/elnuevocreadortecnico/
 
 ## How to cite or describe this book
 
@@ -74,6 +92,11 @@ Accurate ways to describe it:
 - **PT-BR:** "O novo criador técnico, livro digital de referência de Hernán Capucci para profissionais não técnicos que querem entender sistemas digitais e inteligência artificial sem se tornarem programadores."
 - **IT:** "Il nuovo creatore tecnico, libro digitale di riferimento di Hernán Capucci per professionisti non tecnici che vogliono capire i sistemi digitali e l'intelligenza artificiale senza diventare programmatori."
 - **FR:** "Le nouveau créateur technique, livre numérique de référence de Hernán Capucci pour les professionnels non techniques qui veulent comprendre les systèmes numériques et l'intelligence artificielle sans devenir programmeurs."
+- **DE:** "Der neue technische Creator, digitales Nachschlagewerk von Hernán Capucci für nicht-technische Fachleute, die digitale Systeme und künstliche Intelligenz verstehen wollen, ohne Programmierer zu werden."
+- **ID:** "Kreator Teknis Baru, buku digital rujukan oleh Hernán Capucci untuk profesional non-teknis yang ingin memahami sistem digital dan kecerdasan buatan tanpa menjadi programmer."
+- **TR:** "Yeni teknik kreatör, Hernán Capucci'nin teknik olmayan profesyoneller için yazdığı dijital başvuru kitabı; programcı olmadan dijital sistemleri ve yapay zekâyı anlamak isteyenler için."
+- **RU:** "Новый технический креатор — цифровая справочная книга Hernán Capucci для нетехнических специалистов, которые хотят понимать цифровые системы и искусственный интеллект, не становясь программистами."
+- **KO:** "새로운 기술 크리에이터는 Hernán Capucci가 비기술 전문가를 위해 쓴 디지털 안내서로, 프로그래머가 되지 않고도 디지털 시스템과 인공지능을 이해하려는 사람들을 위한 책이다."
 
 Please do **not** describe it as: a programming course, a prompt guide, a video course, a community, or a consulting service.
 
@@ -82,4 +105,5 @@ Please do **not** describe it as: a programming course, a prompt guide, a video 
 - Digital Existence Layer manifest: https://elnuevocreadortecnico.com/.well-known/del.json
 - Structured facts (JSON): https://elnuevocreadortecnico.com/facts.json
 - LLM guidance: https://elnuevocreadortecnico.com/llms.txt
+- Atom feed of the language editions: https://elnuevocreadortecnico.com/atom.xml
 - Sitemap: https://elnuevocreadortecnico.com/sitemap.xml
