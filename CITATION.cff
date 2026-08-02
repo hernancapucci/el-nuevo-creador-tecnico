@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "This repository holds the official public metadata of the book. If you reference the work itself, please cite the book, as given under preferred-citation."
+title: "El nuevo creador técnico — official public metadata"
+abstract: "Machine-readable description of the digital book 'El nuevo creador técnico' by Hernán Capucci, published in ten language editions. The repository holds the project's public metadata; the book is distributed from its official site."
+type: dataset
+authors:
+  - family-names: Capucci
+    given-names: Hernán
+    orcid: "https://orcid.org/0009-0008-7216-3032"
+    website: "https://elnuevocreadortecnico.com"
+repository-code: "https://github.com/hernancapucci/el-nuevo-creador-tecnico"
+url: "https://elnuevocreadortecnico.com"
+keywords:
+  - artificial intelligence
+  - technology literacy
+  - digital systems
+  - technical judgment
+  - non-technical professionals
+  - digital book
+preferred-citation:
+  type: book
+  title: "El nuevo creador técnico: Cómo entender sistemas y crear mejor con inteligencia artificial sin ser programador"
+  authors:
+    - family-names: Capucci
+      given-names: Hernán
+      orcid: "https://orcid.org/0009-0008-7216-3032"
+  year: 2026
+  month: 5
+  languages:
+    - spa
+  publisher:
+    name: "Edición independiente"
+  url: "https://elnuevocreadortecnico.com"
+  abstract: "A reference work for creators, entrepreneurs and non-technical professionals who need to understand digital systems, artificial intelligence and technology products without becoming programmers. Published in ten language editions."
+  identifiers:
+    - type: url
+      value: "https://openlibrary.org/works/OL45838913W"
+      description: "Open Library work record"
