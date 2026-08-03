@@ -76,10 +76,10 @@ The book is catalogued as a single conceptual work with one edition per language
 
 This repository is permanently archived in [Software Heritage](https://www.softwareheritage.org/), the universal source code archive:
 
-- Snapshot: `swh:1:snp:f376d6d13a7cdf6af56bca01d0fc4acf13dff8b6`
-- Browse: https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/hernancapucci/el-nuevo-creador-tecnico
+- This repository: https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/hernancapucci/el-nuevo-creador-tecnico
+- Author profile repository: https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/hernancapucci/hernancapucci
 
-The author's profile repository is archived as `swh:1:snp:5c8d2005cf55910e3ae71933aadae2f3f0685a04`.
+Each archived state has its own permanent SWHID, addressable from the origin above.
 
 ## Author
 
